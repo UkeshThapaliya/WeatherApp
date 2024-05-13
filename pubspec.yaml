@@ -32,6 +32,9 @@ flutter:
   uses-material-design: true
   assets:
     - assets/fonts/
+    - assets/images/BgFrame1.png
+    - assets/images/BgFrame2.png
+    - assets/images/BgFrame3.png
     
   fonts:
     - family: Brand-Bold
