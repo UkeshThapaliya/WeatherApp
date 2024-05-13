@@ -1,1 +1,1 @@
-A Simple Weather App which shows the basicinformation about weather
+A Simple Weather App which shows the basic information about weather.
