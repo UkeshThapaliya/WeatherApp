@@ -9,7 +9,7 @@ class HelpScreen extends StatelessWidget {
     // Start a timer when the screen is first built
     Future.delayed(Duration(seconds: 5), () {
       // Navigate to the homepage after 5 seconds
-      Get.offAll(HomePage());
+      Get.offAll(() => HomePage());
     });
     return Scaffold(
       body: Stack(
