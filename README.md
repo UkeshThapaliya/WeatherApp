@@ -9,6 +9,8 @@ A Simple Weather App which shows the basic information about weather.
 <img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/5695223f-963d-41ce-808e-78d16402f7bc" width= "200"/>
 <img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/e0ec8151-4cb8-43a7-9d22-9bc58fcc741c" width= "200"/>
 
+As you can see if there not any location given app will automatically call weather api with current latitude and longitude.
+
 
 
 In HomeScreen Page
