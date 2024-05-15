@@ -1,10 +1,9 @@
 A Simple Weather App which shows the basic information about weather.
 => It is simple app with 2 screen (Help Screen and Homepage Screen).
 
-=> On first launch, app should show help screen as splash screen ( which has headingtext/image with skip button; 
+=> On first launch, app should show help screen as splash screen ( which has headingtext/image with skip button; ) See Below :
 
-=> In homepage app should weather (See below) :
-<img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/3daba511-64cb-473d-9366-0c7ccc4f122b" width= "200"/>
+
 <img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/e89b56ad-3729-4627-83eb-b44e3dd07ae0" width= "200"/>
 <img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/deea925a-b9b1-44ca-9dd0-abca80e07214" width= "200"/>
 <img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/5695223f-963d-41ce-808e-78d16402f7bc" width= "200"/>
