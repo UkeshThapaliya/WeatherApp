@@ -24,7 +24,7 @@ class WeatherController extends GetxController {
     }
   }
 
-  //latitude amd longitude
+  //latitude and longitude
   Future<void> fetchWeatherByLat_Lon(double lat, double lon) async {
     final response = await http.get(Uri.parse(
         'http://api.weatherapi.com/v1/current.json?key=a933ac739fb043bda15151531241305&q=$lat,$lon'));
