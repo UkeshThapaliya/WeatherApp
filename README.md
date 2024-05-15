@@ -1,17 +1,14 @@
 A Simple Weather App which shows the basic information about weather.
+
 => It is simple app with 2 screen (Help Screen and Homepage Screen).
 
 => On first launch, app should show help screen as splash screen ( which has headingtext/image with skip button; ) See Below :
 
-
-<img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/e89b56ad-3729-4627-83eb-b44e3dd07ae0" width= "200"/>
-<img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/deea925a-b9b1-44ca-9dd0-abca80e07214" width= "200"/>
-<img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/5695223f-963d-41ce-808e-78d16402f7bc" width= "200"/>
-<img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/e0ec8151-4cb8-43a7-9d22-9bc58fcc741c" width= "200"/>
-
-As you can see if there not any location given app will automatically call weather api with current latitude and longitude.
-
-
+<img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/4799bb60-7fc3-4647-b5fa-db3bef7b6feb" width= "200"/>
+<img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/78dac7a6-e5de-4d62-af2a-cc8f868ffa4e" width= "200"/>
+<img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/bd0e2e8a-ad8e-46fc-a3bd-454d31c4b67a" width= "200"/>
+<img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/9d6051cf-5a7a-4a8d-bc46-e5886f49d88d" width= "200"/>
+<img src = "https://github.com/UkeshThapaliya/WeatherApp/assets/103941519/dc5e9187-0e05-4952-a735-a3ae0b9f55cf" width= "200"/>
 
 In HomeScreen Page
 
