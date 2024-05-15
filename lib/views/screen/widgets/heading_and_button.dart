@@ -20,9 +20,9 @@ class HeadingWidget extends StatelessWidget {
           ),
           ElevatedButton(
             style: ElevatedButton.styleFrom(
-              backgroundColor: Colors.black87,
+              backgroundColor: Colors.blue,
               foregroundColor: Colors.white,
-              shadowColor: Colors.black,
+              shadowColor: Colors.blue,
             ),
             onPressed: () {
               Get.offAll(() => HomePage());

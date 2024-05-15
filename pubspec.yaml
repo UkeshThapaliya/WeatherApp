@@ -15,6 +15,7 @@ dependencies:
   http: ^1.2.1
   cupertino_icons: ^1.0.6
   location: ^6.0.2
+  geolocator: ^11.0.0
 
 dev_dependencies:
   flutter_test:
@@ -36,6 +37,8 @@ flutter:
     - assets/images/BgFrame1.png
     - assets/images/BgFrame2.png
     - assets/images/BgFrame3.png
+    - assets/images/bg image.jpg
+    
     
   fonts:
     - family: Brand-Bold
